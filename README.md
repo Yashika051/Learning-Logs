@@ -22,4 +22,4 @@ I started this because I noticed I'd learn something one week and forget I ever 
 Each month gets its own file inside `/logs`. Entries are short — usually just 2-3 lines on what I worked on that day.
 
 
-<!-- 👉 [See this month's log](logs/2026-08.md) -->
+ 👉 [See this month's log](logs/2026-08.md) 
